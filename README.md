@@ -11,10 +11,11 @@ In addition, a **desktop interface** was developed using **PySide6** to allow us
 ---
 
 ## Features  
-- High-accuracy classification with **MobileNetV2**  
-- User-friendly **desktop application** (PySide6)  
-- **Supabase integration** for user authentication & query history  
-- Image upload and real-time predictions  
+- Image-based tomato leaf disease classification using MobileNetV2 (CNN)
+- High accuracy: **87%** on test dataset
+- Desktop application built with PySide6 for easy image upload and predictions
+- Supabase integration for user authentication and query history
+- Real-time predictions for individual leaf images 
 
 ---
 
